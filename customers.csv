@@ -1,0 +1,601 @@
+customer_id,first_name,last_name,city,country,signup_date,acquisition_channel
+1,Priya,Jones,Pune,India,2026-08-26,Organic Search
+2,Zoe,Brown,Bangalore,India,2026-04-08,Organic Search
+3,Grace,Miller,London,UK,2023-06-26,Paid Social
+4,Ava,Davis,Manchester,UK,2026-02-02,Paid Social
+5,Ella,Brown,Leeds,UK,2026-07-15,Email
+6,Noah,Thompson,Chicago,USA,2025-03-23,Organic Search
+7,Harper,Johnson,New York,USA,2023-09-30,Organic Search
+8,Lucas,Perez,Manchester,UK,2026-03-15,Organic Search
+9,James,Brown,Chicago,USA,2026-03-15,Email
+10,Karan,Brown,New York,USA,2023-05-09,Email
+11,Max,Miller,Delhi,India,2025-12-24,Paid Social
+12,Priya,Jackson,Chicago,USA,2025-07-17,Paid Social
+13,Alexander,Reddy,Birmingham,UK,2024-05-14,Organic Search
+14,Daniel,Lee,Delhi,India,2024-12-04,Referral
+15,Abigail,White,Manchester,UK,2023-08-30,Paid Social
+16,Mia,Nair,Bangalore,India,2023-11-08,Direct
+17,Sara,Johnson,Austin,USA,2023-06-08,Referral
+18,Ella,Reddy,Dublin,Ireland,2024-10-04,Paid Social
+19,Ananya,White,Delhi,India,2026-04-02,Referral
+20,Ava,Iyer,Manchester,UK,2024-07-06,Paid Social
+21,Ava,Johnson,Toronto,Canada,2024-09-26,Email
+22,Fatima,Wilson,Toronto,Canada,2025-03-01,Direct
+23,Ananya,Smith,Delhi,India,2024-12-28,Organic Search
+24,Mason,Martin,London,UK,2024-03-22,Referral
+25,Isabella,Gupta,Leeds,UK,2025-03-25,Paid Social
+26,Jack,Williams,Birmingham,UK,2025-07-08,Paid Social
+27,Michael,Rao,Birmingham,UK,2025-05-31,Direct
+28,Michael,Khan,Pune,India,2025-01-04,Email
+29,Neha,Davis,Birmingham,UK,2023-06-19,Organic Search
+30,Harper,Patel,Leeds,UK,2023-01-25,Paid Social
+31,Sam,Garcia,Mumbai,India,2024-07-31,Organic Search
+32,Sara,Perez,Bangalore,India,2026-06-02,Email
+33,Isabella,Khan,Dublin,Ireland,2025-11-21,Direct
+34,Noah,Jackson,Dublin,Ireland,2026-02-19,Paid Social
+35,Arjun,Thomas,Manchester,UK,2025-09-13,Email
+36,Noah,Miller,Manchester,UK,2024-03-03,Paid Social
+37,Mason,Anderson,Chicago,USA,2023-04-18,Organic Search
+38,Ella,Jones,New York,USA,2023-07-27,Direct
+39,Max,Smith,Manchester,UK,2024-03-01,Email
+40,Lucas,Sharma,Mumbai,India,2024-12-12,Email
+41,Chloe,Brown,Manchester,UK,2025-09-26,Direct
+42,Yusuf,Martin,Delhi,India,2024-09-30,Organic Search
+43,Sophia,Gupta,Bangalore,India,2024-06-26,Paid Social
+44,Mia,Lee,London,UK,2024-02-25,Direct
+45,Henry,Taylor,Birmingham,UK,2026-01-17,Direct
+46,Henry,Wilson,Austin,USA,2023-07-06,Email
+47,Evelyn,Lee,Bangalore,India,2023-12-09,Paid Social
+48,Harper,Perez,New York,USA,2025-10-26,Paid Social
+49,Harper,White,Sydney,Australia,2024-02-04,Referral
+50,Arjun,Gupta,Sydney,Australia,2024-04-09,Organic Search
+51,Jack,Taylor,Toronto,Canada,2023-03-01,Direct
+52,Michael,Martin,Mumbai,India,2024-02-01,Email
+53,Ananya,Jackson,Sydney,Australia,2024-12-16,Direct
+54,Karan,Williams,Leeds,UK,2023-07-29,Organic Search
+55,Amelia,Anderson,Leeds,UK,2025-09-15,Email
+56,Max,Iyer,London,UK,2025-09-08,Direct
+57,Ananya,Reddy,Austin,USA,2023-06-23,Referral
+58,Mason,Desai,Pune,India,2024-02-13,Paid Social
+59,James,Moore,Sydney,Australia,2026-07-26,Paid Social
+60,Arjun,Jackson,Pune,India,2023-06-23,Referral
+61,Mia,Jones,London,UK,2023-11-06,Email
+62,Yusuf,Reddy,Austin,USA,2023-10-27,Email
+63,Ruby,Martin,Austin,USA,2024-12-18,Organic Search
+64,Leo,Jones,London,UK,2023-01-30,Referral
+65,Sophia,Lee,Toronto,Canada,2023-10-13,Paid Social
+66,Amelia,Iyer,Dublin,Ireland,2024-03-08,Organic Search
+67,Benjamin,Wilson,New York,USA,2024-05-07,Referral
+68,Priya,Martinez,New York,USA,2025-05-08,Referral
+69,Noah,Desai,Toronto,Canada,2024-12-25,Direct
+70,Sam,Iyer,New York,USA,2025-05-11,Referral
+71,Grace,Jones,New York,USA,2023-11-07,Paid Social
+72,Liam,Chowdhury,Delhi,India,2024-01-11,Email
+73,Lucas,Garcia,Birmingham,UK,2025-08-27,Email
+74,Mason,Perez,London,UK,2024-10-29,Email
+75,Henry,Perez,Delhi,India,2023-08-06,Direct
+76,Noah,Davis,Leeds,UK,2024-07-21,Organic Search
+77,Sophia,Lee,Delhi,India,2026-02-24,Organic Search
+78,Ava,Jackson,Bangalore,India,2026-06-08,Direct
+79,Ruby,Lee,Leeds,UK,2024-07-21,Paid Social
+80,Zoe,Reddy,Delhi,India,2025-11-05,Direct
+81,Henry,Rao,Mumbai,India,2026-02-19,Direct
+82,Amelia,Iyer,Delhi,India,2023-10-08,Paid Social
+83,Arjun,Jackson,Bangalore,India,2023-05-29,Email
+84,Omar,Williams,Leeds,UK,2024-09-12,Referral
+85,Lucas,Khan,Austin,USA,2026-09-14,Paid Social
+86,Evelyn,Rao,Birmingham,UK,2025-08-15,Organic Search
+87,Sophia,Thomas,Delhi,India,2023-11-30,Direct
+88,Harper,Garcia,Toronto,Canada,2025-06-02,Direct
+89,Arjun,Anderson,Pune,India,2024-02-05,Paid Social
+90,Ethan,Gupta,Bangalore,India,2023-02-09,Paid Social
+91,Yusuf,Jackson,Toronto,Canada,2023-02-07,Paid Social
+92,Henry,White,Mumbai,India,2025-11-15,Direct
+93,Mason,Desai,Sydney,Australia,2024-04-13,Direct
+94,Sophia,Williams,Mumbai,India,2024-07-10,Organic Search
+95,James,Martinez,Sydney,Australia,2023-09-23,Referral
+96,Evelyn,Thomas,Birmingham,UK,2026-01-03,Direct
+97,Ella,Martin,Toronto,Canada,2024-10-31,Organic Search
+98,Noah,Reddy,Toronto,Canada,2024-01-11,Paid Social
+99,Ava,Martinez,London,UK,2026-07-23,Organic Search
+100,Evelyn,Williams,Chicago,USA,2024-03-31,Organic Search
+101,Mason,Jackson,London,UK,2024-11-25,Direct
+102,Sara,Desai,Mumbai,India,2026-06-27,Organic Search
+103,Henry,Khan,Leeds,UK,2023-08-13,Direct
+104,Evelyn,Johnson,Birmingham,UK,2024-02-18,Direct
+105,Daniel,Lee,Sydney,Australia,2024-02-26,Organic Search
+106,Grace,Patel,Birmingham,UK,2024-07-08,Paid Social
+107,Liam,Martinez,London,UK,2023-02-01,Organic Search
+108,Grace,Perez,Leeds,UK,2025-11-19,Paid Social
+109,Fatima,Brown,Austin,USA,2026-08-24,Paid Social
+110,Jack,Perez,Dublin,Ireland,2025-03-16,Direct
+111,Daniel,Khan,Leeds,UK,2024-04-15,Paid Social
+112,Isabella,Thomas,Bangalore,India,2023-04-22,Referral
+113,Olivia,Williams,Austin,USA,2024-06-07,Paid Social
+114,Noah,Williams,Austin,USA,2025-02-19,Direct
+115,Abigail,White,Leeds,UK,2024-08-23,Organic Search
+116,James,Garcia,Mumbai,India,2025-07-02,Organic Search
+117,Karan,Anderson,New York,USA,2024-10-24,Organic Search
+118,Daniel,Miller,Bangalore,India,2024-01-10,Organic Search
+119,Neha,Williams,Delhi,India,2024-07-25,Paid Social
+120,Amelia,Davis,New York,USA,2023-01-11,Organic Search
+121,Ethan,Jones,Pune,India,2026-04-16,Organic Search
+122,Liam,Wilson,Mumbai,India,2026-07-13,Organic Search
+123,Sam,Lee,Dublin,Ireland,2023-11-14,Email
+124,Ruby,Thomas,Sydney,Australia,2024-10-29,Referral
+125,Jack,Jones,Mumbai,India,2026-06-21,Email
+126,Emma,Iyer,Dublin,Ireland,2025-11-16,Email
+127,Grace,Jones,New York,USA,2025-10-29,Email
+128,Liam,Iyer,Austin,USA,2026-04-11,Referral
+129,Harper,Williams,London,UK,2023-03-27,Organic Search
+130,Karan,Brown,Pune,India,2025-07-13,Email
+131,Liam,Sharma,New York,USA,2024-05-15,Paid Social
+132,Olivia,Jackson,Sydney,Australia,2023-05-24,Referral
+133,Grace,Rao,New York,USA,2023-07-08,Email
+134,Ava,Gupta,Toronto,Canada,2025-08-28,Organic Search
+135,Ava,Chowdhury,Mumbai,India,2024-04-25,Referral
+136,Benjamin,Davis,Toronto,Canada,2026-08-24,Direct
+137,Jack,Chowdhury,Pune,India,2023-06-07,Paid Social
+138,Abigail,Nair,London,UK,2026-06-17,Email
+139,Amelia,Williams,Chicago,USA,2023-10-29,Paid Social
+140,Daniel,White,Chicago,USA,2023-10-01,Organic Search
+141,Noah,Martin,Mumbai,India,2023-07-23,Email
+142,Jack,Wilson,Toronto,Canada,2025-11-23,Organic Search
+143,Yusuf,Jackson,Sydney,Australia,2023-08-31,Direct
+144,Leo,Miller,Mumbai,India,2023-06-25,Direct
+145,Liam,Wilson,Delhi,India,2023-06-06,Referral
+146,Fatima,Martinez,Pune,India,2024-03-05,Direct
+147,Benjamin,Williams,Chicago,USA,2023-07-04,Organic Search
+148,Henry,Martinez,Bangalore,India,2023-09-29,Email
+149,Grace,Martinez,Manchester,UK,2025-01-17,Organic Search
+150,Jack,Thomas,London,UK,2023-11-22,Organic Search
+151,Jack,Patel,Delhi,India,2025-04-10,Organic Search
+152,Lucas,Moore,Bangalore,India,2025-02-09,Organic Search
+153,Rahul,Smith,Bangalore,India,2024-11-23,Referral
+154,Mason,Desai,Leeds,UK,2023-01-25,Direct
+155,Abigail,Martinez,Bangalore,India,2023-05-14,Paid Social
+156,Sam,Williams,Bangalore,India,2025-05-26,Referral
+157,Noah,Martinez,Manchester,UK,2023-04-16,Referral
+158,Abigail,Sharma,Birmingham,UK,2024-05-25,Direct
+159,Omar,Lee,Bangalore,India,2024-01-24,Referral
+160,Omar,Rao,London,UK,2026-07-16,Paid Social
+161,Leo,Perez,Leeds,UK,2023-06-15,Organic Search
+162,Sara,Jackson,Chicago,USA,2023-10-11,Email
+163,Abigail,Martin,London,UK,2026-01-31,Organic Search
+164,Chloe,Moore,Bangalore,India,2024-07-31,Organic Search
+165,Evelyn,Thomas,Austin,USA,2024-05-03,Organic Search
+166,Leo,Patel,Pune,India,2023-09-03,Organic Search
+167,Mia,Williams,Leeds,UK,2025-10-22,Direct
+168,Jack,Perez,Leeds,UK,2025-07-16,Direct
+169,Fatima,Moore,Birmingham,UK,2026-01-26,Organic Search
+170,Ethan,Garcia,Bangalore,India,2026-02-12,Organic Search
+171,Alexander,Taylor,Mumbai,India,2026-03-12,Organic Search
+172,Liam,Gupta,Dublin,Ireland,2025-04-25,Paid Social
+173,Henry,Miller,Pune,India,2024-07-07,Paid Social
+174,Noah,Martin,Mumbai,India,2026-03-22,Direct
+175,Isabella,Patel,New York,USA,2025-12-19,Email
+176,Benjamin,Williams,Mumbai,India,2024-05-23,Paid Social
+177,Fatima,Moore,Mumbai,India,2023-02-14,Organic Search
+178,Omar,Khan,Sydney,Australia,2025-08-27,Direct
+179,Jack,Smith,Manchester,UK,2025-03-12,Direct
+180,Henry,Chowdhury,Delhi,India,2025-07-08,Organic Search
+181,Sophia,Davis,Birmingham,UK,2023-11-08,Paid Social
+182,Sophia,Iyer,Toronto,Canada,2026-08-18,Referral
+183,Yusuf,Williams,New York,USA,2023-03-22,Organic Search
+184,Isabella,Davis,Chicago,USA,2023-03-18,Email
+185,Daniel,Jones,Austin,USA,2024-05-30,Paid Social
+186,Omar,Khan,Sydney,Australia,2023-08-18,Organic Search
+187,Daniel,Lee,Chicago,USA,2024-01-28,Paid Social
+188,Harper,Reddy,Chicago,USA,2023-01-03,Organic Search
+189,Daniel,Jackson,Mumbai,India,2024-10-09,Email
+190,Alexander,Martin,New York,USA,2024-04-25,Email
+191,Liam,Moore,Toronto,Canada,2026-08-23,Organic Search
+192,Liam,Miller,Delhi,India,2026-08-18,Paid Social
+193,Evelyn,Davis,Austin,USA,2025-05-19,Direct
+194,Harper,Martin,London,UK,2024-11-23,Email
+195,Karan,Patel,Pune,India,2024-02-10,Organic Search
+196,Abigail,Gupta,Dublin,Ireland,2025-10-30,Organic Search
+197,Jack,Miller,Mumbai,India,2024-02-02,Organic Search
+198,Harper,Martinez,Sydney,Australia,2024-08-27,Organic Search
+199,Max,Martin,Chicago,USA,2024-01-19,Direct
+200,Jack,Moore,Austin,USA,2023-04-26,Direct
+201,Lucas,Desai,Pune,India,2023-04-22,Organic Search
+202,Ruby,Jones,Pune,India,2023-04-17,Email
+203,James,Thomas,Delhi,India,2024-10-05,Referral
+204,Ethan,Desai,Birmingham,UK,2024-11-05,Organic Search
+205,Henry,Gupta,Delhi,India,2023-03-07,Organic Search
+206,Neha,Iyer,Bangalore,India,2024-11-10,Paid Social
+207,Sophia,Smith,Manchester,UK,2024-07-27,Organic Search
+208,Sara,Rao,Manchester,UK,2026-02-23,Direct
+209,Benjamin,Thomas,Bangalore,India,2024-09-24,Referral
+210,Omar,Williams,London,UK,2025-08-27,Organic Search
+211,Zoe,Desai,Delhi,India,2024-01-31,Paid Social
+212,Chloe,Smith,Austin,USA,2025-04-21,Organic Search
+213,Arjun,Johnson,Pune,India,2023-03-13,Paid Social
+214,Noah,Martinez,Leeds,UK,2023-05-09,Direct
+215,Rahul,Taylor,Mumbai,India,2024-11-17,Direct
+216,Max,Johnson,Mumbai,India,2024-10-10,Direct
+217,Daniel,Smith,Toronto,Canada,2026-05-04,Direct
+218,Ava,Smith,Dublin,Ireland,2024-04-23,Organic Search
+219,Yusuf,Nair,Pune,India,2024-05-29,Direct
+220,Jack,Jones,Delhi,India,2024-01-10,Organic Search
+221,Daniel,Iyer,Toronto,Canada,2023-11-06,Email
+222,Priya,Chowdhury,Bangalore,India,2025-08-01,Paid Social
+223,Ruby,Williams,New York,USA,2024-02-09,Paid Social
+224,Mia,Davis,Pune,India,2023-05-13,Email
+225,Chloe,Perez,New York,USA,2024-10-29,Organic Search
+226,Omar,Rao,Manchester,UK,2023-05-28,Organic Search
+227,Ethan,Miller,Manchester,UK,2025-05-12,Paid Social
+228,Fatima,Garcia,Leeds,UK,2023-09-30,Paid Social
+229,Max,Rao,Austin,USA,2024-04-26,Referral
+230,Mason,Nair,Dublin,Ireland,2024-08-24,Organic Search
+231,Ella,Martinez,Bangalore,India,2024-06-04,Referral
+232,Amelia,Jackson,Leeds,UK,2024-01-16,Organic Search
+233,Lucas,Wilson,Chicago,USA,2024-01-21,Paid Social
+234,Arjun,Martinez,Leeds,UK,2025-11-05,Paid Social
+235,Sophia,Sharma,Delhi,India,2023-03-17,Organic Search
+236,Chloe,Rao,Dublin,Ireland,2024-04-18,Referral
+237,Karan,Johnson,Mumbai,India,2024-04-21,Organic Search
+238,Amelia,White,Dublin,Ireland,2026-04-09,Organic Search
+239,Ava,Taylor,New York,USA,2023-12-31,Paid Social
+240,Evelyn,Nair,Sydney,Australia,2023-01-13,Organic Search
+241,Ruby,Khan,Chicago,USA,2024-12-17,Organic Search
+242,Karan,Anderson,Birmingham,UK,2023-04-01,Organic Search
+243,Evelyn,Johnson,Chicago,USA,2026-08-27,Direct
+244,Olivia,Iyer,Bangalore,India,2025-04-17,Email
+245,James,White,Mumbai,India,2023-06-09,Organic Search
+246,Jack,Perez,Delhi,India,2023-05-10,Paid Social
+247,Arjun,Patel,New York,USA,2023-11-13,Email
+248,Ethan,Sharma,Birmingham,UK,2025-03-25,Email
+249,Sara,Wilson,Austin,USA,2024-09-21,Paid Social
+250,Noah,Wilson,Toronto,Canada,2026-03-06,Direct
+251,Sara,Moore,London,UK,2025-01-15,Email
+252,Arjun,Gupta,Pune,India,2024-02-22,Direct
+253,Omar,Rao,Birmingham,UK,2025-05-17,Organic Search
+254,Ethan,Thomas,Chicago,USA,2025-01-16,Paid Social
+255,Mia,Jones,London,UK,2023-04-16,Email
+256,Arjun,Williams,Chicago,USA,2026-06-28,Direct
+257,Grace,Garcia,Birmingham,UK,2024-12-13,Organic Search
+258,Henry,Garcia,Manchester,UK,2023-08-11,Paid Social
+259,Amelia,Wilson,Birmingham,UK,2023-03-31,Direct
+260,Chloe,Anderson,London,UK,2026-05-29,Direct
+261,Neha,Williams,Toronto,Canada,2026-06-24,Email
+262,Mia,Sharma,Sydney,Australia,2024-03-30,Email
+263,Max,Chowdhury,Leeds,UK,2025-08-26,Organic Search
+264,Benjamin,Johnson,Pune,India,2025-11-26,Organic Search
+265,Ananya,Brown,Birmingham,UK,2024-05-20,Direct
+266,Amelia,Johnson,New York,USA,2023-03-20,Email
+267,Priya,Brown,Pune,India,2026-05-12,Paid Social
+268,Daniel,Sharma,Pune,India,2024-09-23,Email
+269,Omar,Thomas,Austin,USA,2025-01-22,Paid Social
+270,Fatima,Garcia,London,UK,2023-01-08,Email
+271,Jack,Jackson,Leeds,UK,2025-07-04,Referral
+272,Yusuf,Iyer,Birmingham,UK,2025-08-27,Paid Social
+273,Ava,Jones,Bangalore,India,2025-05-31,Paid Social
+274,Fatima,Lee,New York,USA,2026-09-07,Organic Search
+275,Isabella,Williams,Toronto,Canada,2024-10-04,Referral
+276,Grace,Williams,London,UK,2025-10-29,Direct
+277,Isabella,Smith,Dublin,Ireland,2023-05-16,Direct
+278,Mason,Miller,Birmingham,UK,2025-10-04,Organic Search
+279,Mia,Patel,Sydney,Australia,2024-03-28,Organic Search
+280,Ananya,White,Sydney,Australia,2024-05-31,Organic Search
+281,Max,Martinez,Dublin,Ireland,2025-07-23,Organic Search
+282,Grace,Desai,Delhi,India,2024-03-02,Email
+283,Max,Lee,Leeds,UK,2024-10-15,Paid Social
+284,Amelia,Garcia,Pune,India,2023-11-27,Email
+285,Michael,Patel,Bangalore,India,2025-02-10,Organic Search
+286,Evelyn,Brown,Sydney,Australia,2025-12-22,Organic Search
+287,Karan,Chowdhury,Delhi,India,2026-02-11,Paid Social
+288,Sophia,Martinez,New York,USA,2026-07-13,Direct
+289,Karan,Martinez,Pune,India,2025-01-25,Email
+290,Karan,Anderson,Sydney,Australia,2023-06-16,Paid Social
+291,James,White,Toronto,Canada,2023-04-09,Organic Search
+292,Henry,Martinez,Mumbai,India,2026-08-02,Direct
+293,Sam,Desai,Austin,USA,2024-10-02,Referral
+294,Emma,Davis,Birmingham,UK,2024-08-18,Email
+295,Omar,Moore,New York,USA,2025-01-15,Direct
+296,Isabella,Martin,Leeds,UK,2026-06-08,Email
+297,Liam,Johnson,London,UK,2026-03-07,Paid Social
+298,Sophia,Lee,Bangalore,India,2025-12-29,Organic Search
+299,Sam,Wilson,Chicago,USA,2023-10-01,Organic Search
+300,Max,Iyer,Delhi,India,2023-11-21,Organic Search
+301,Alexander,Khan,Birmingham,UK,2025-07-12,Organic Search
+302,Lucas,Chowdhury,Austin,USA,2024-07-06,Paid Social
+303,Evelyn,Smith,London,UK,2026-08-13,Referral
+304,Ananya,White,Austin,USA,2026-03-30,Paid Social
+305,Henry,Gupta,Delhi,India,2024-05-23,Organic Search
+306,Olivia,Johnson,London,UK,2025-12-24,Organic Search
+307,James,Davis,Birmingham,UK,2023-04-30,Direct
+308,Sophia,Smith,Chicago,USA,2026-02-02,Email
+309,Amelia,Jones,Pune,India,2024-02-13,Paid Social
+310,Grace,Sharma,Austin,USA,2025-04-30,Referral
+311,James,Lee,Mumbai,India,2023-05-11,Organic Search
+312,Noah,Rao,Toronto,Canada,2025-09-05,Email
+313,Olivia,Thomas,Dublin,Ireland,2025-06-13,Referral
+314,Yusuf,Williams,Toronto,Canada,2026-09-04,Paid Social
+315,Harper,Brown,Mumbai,India,2024-04-20,Email
+316,Mason,Anderson,Toronto,Canada,2024-06-23,Email
+317,Michael,Sharma,New York,USA,2025-06-12,Email
+318,Henry,Martinez,Mumbai,India,2026-08-07,Direct
+319,Benjamin,Williams,New York,USA,2023-02-01,Organic Search
+320,Alexander,Iyer,Toronto,Canada,2024-02-20,Direct
+321,Priya,Miller,Pune,India,2024-11-03,Email
+322,Neha,Desai,Dublin,Ireland,2026-07-15,Direct
+323,Zoe,Martin,Delhi,India,2025-12-22,Email
+324,Liam,Moore,Toronto,Canada,2024-04-23,Email
+325,Daniel,Reddy,Leeds,UK,2025-03-12,Email
+326,Ava,Thompson,Birmingham,UK,2023-10-24,Organic Search
+327,Mason,Brown,Chicago,USA,2023-11-28,Paid Social
+328,Lucas,Khan,London,UK,2023-03-05,Organic Search
+329,Emma,Khan,Manchester,UK,2023-04-06,Organic Search
+330,Sam,Nair,Bangalore,India,2024-02-13,Referral
+331,Zoe,Rao,Austin,USA,2023-05-16,Direct
+332,Neha,Brown,Leeds,UK,2024-02-26,Organic Search
+333,Emma,Johnson,Dublin,Ireland,2026-07-22,Organic Search
+334,Abigail,Martin,Manchester,UK,2023-09-29,Organic Search
+335,Benjamin,Wilson,Bangalore,India,2024-11-20,Paid Social
+336,Liam,Taylor,Mumbai,India,2024-08-01,Organic Search
+337,Karan,Desai,Bangalore,India,2026-05-17,Paid Social
+338,Abigail,White,Toronto,Canada,2023-03-05,Referral
+339,Liam,Moore,New York,USA,2023-07-21,Paid Social
+340,Noah,Perez,Chicago,USA,2024-03-19,Email
+341,Ethan,Thompson,Dublin,Ireland,2024-08-11,Organic Search
+342,Olivia,Lee,Leeds,UK,2024-08-13,Referral
+343,Noah,Smith,Bangalore,India,2025-10-02,Organic Search
+344,James,Martin,Chicago,USA,2024-12-12,Direct
+345,Grace,Martinez,Chicago,USA,2023-11-22,Organic Search
+346,Benjamin,Khan,Leeds,UK,2025-10-17,Organic Search
+347,Ethan,Martin,Sydney,Australia,2026-02-23,Referral
+348,Priya,Taylor,Manchester,UK,2025-04-01,Direct
+349,Ethan,Moore,Austin,USA,2023-02-21,Paid Social
+350,Daniel,Martinez,Pune,India,2026-01-21,Paid Social
+351,Neha,Rao,Austin,USA,2024-04-23,Direct
+352,Isabella,Perez,Chicago,USA,2026-05-24,Email
+353,Ananya,Thompson,Bangalore,India,2025-12-04,Organic Search
+354,Fatima,Patel,New York,USA,2024-10-24,Organic Search
+355,Fatima,Khan,Sydney,Australia,2024-06-10,Email
+356,Isabella,Anderson,Delhi,India,2026-08-09,Direct
+357,Alexander,Lee,Leeds,UK,2024-07-01,Organic Search
+358,Max,Jones,Toronto,Canada,2023-11-16,Direct
+359,Priya,White,New York,USA,2024-12-14,Organic Search
+360,Priya,Miller,Mumbai,India,2023-07-28,Organic Search
+361,Sophia,Miller,Pune,India,2023-11-06,Direct
+362,Daniel,Gupta,Mumbai,India,2025-06-09,Organic Search
+363,Sophia,Sharma,Manchester,UK,2024-07-29,Organic Search
+364,Neha,Jackson,London,UK,2023-01-26,Paid Social
+365,Omar,Khan,Leeds,UK,2025-10-21,Direct
+366,Abigail,Jackson,London,UK,2023-10-18,Organic Search
+367,Arjun,Smith,Toronto,Canada,2024-05-11,Direct
+368,Omar,Khan,Chicago,USA,2026-04-18,Referral
+369,Sara,Chowdhury,Leeds,UK,2026-08-29,Direct
+370,Sam,Chowdhury,Leeds,UK,2024-01-07,Email
+371,Yusuf,Moore,Bangalore,India,2024-06-16,Email
+372,Sophia,Rao,Pune,India,2024-05-11,Referral
+373,Mia,Martinez,Dublin,Ireland,2025-05-17,Paid Social
+374,Liam,White,Dublin,Ireland,2025-04-18,Paid Social
+375,James,Rao,Austin,USA,2024-11-02,Referral
+376,Neha,Iyer,Delhi,India,2023-08-06,Organic Search
+377,Zoe,Miller,Birmingham,UK,2024-02-14,Paid Social
+378,Sophia,Chowdhury,Chicago,USA,2025-07-24,Email
+379,Chloe,Lee,London,UK,2026-08-02,Referral
+380,Karan,Lee,Bangalore,India,2025-04-20,Referral
+381,Yusuf,Miller,Austin,USA,2024-01-12,Paid Social
+382,Mason,Gupta,Chicago,USA,2024-12-29,Email
+383,Evelyn,Martinez,Pune,India,2025-03-29,Organic Search
+384,Ava,Moore,Pune,India,2026-07-11,Email
+385,Ananya,Thompson,Mumbai,India,2023-08-12,Organic Search
+386,Arjun,Lee,Leeds,UK,2025-03-13,Paid Social
+387,Mia,Jones,Sydney,Australia,2023-05-22,Referral
+388,Amelia,Martin,Austin,USA,2026-02-25,Referral
+389,Lucas,Taylor,Austin,USA,2026-08-01,Referral
+390,Sara,Jackson,Mumbai,India,2026-01-27,Email
+391,Chloe,Taylor,Sydney,Australia,2024-04-16,Organic Search
+392,Neha,Patel,Mumbai,India,2025-05-22,Email
+393,Chloe,Smith,Sydney,Australia,2024-07-29,Paid Social
+394,Daniel,Anderson,Delhi,India,2025-09-20,Paid Social
+395,Ethan,Patel,Bangalore,India,2023-11-09,Direct
+396,Neha,Johnson,Manchester,UK,2026-03-02,Direct
+397,Isabella,Lee,Dublin,Ireland,2024-12-07,Email
+398,Olivia,Patel,London,UK,2024-03-05,Direct
+399,Abigail,Martinez,Chicago,USA,2023-07-27,Email
+400,Harper,Garcia,Sydney,Australia,2025-07-14,Paid Social
+401,Lucas,Miller,Pune,India,2025-12-30,Organic Search
+402,Ruby,Reddy,Manchester,UK,2026-01-28,Referral
+403,Daniel,Miller,Delhi,India,2024-03-12,Paid Social
+404,Fatima,Patel,Manchester,UK,2026-02-10,Organic Search
+405,Sara,Davis,Dublin,Ireland,2023-10-13,Paid Social
+406,Leo,Johnson,Delhi,India,2025-08-14,Direct
+407,Jack,Davis,Delhi,India,2023-12-04,Paid Social
+408,Olivia,Garcia,Dublin,Ireland,2024-10-18,Paid Social
+409,Ella,Martin,Austin,USA,2024-08-30,Referral
+410,Karan,Moore,Pune,India,2023-06-04,Organic Search
+411,Karan,Sharma,Austin,USA,2023-02-28,Organic Search
+412,Emma,Patel,Toronto,Canada,2024-11-07,Referral
+413,Sophia,Lee,Delhi,India,2025-09-19,Referral
+414,Lucas,Johnson,Leeds,UK,2025-05-01,Email
+415,Rahul,Brown,Dublin,Ireland,2026-09-11,Paid Social
+416,Chloe,Nair,New York,USA,2026-02-08,Referral
+417,Benjamin,Wilson,Pune,India,2024-12-01,Paid Social
+418,Leo,Johnson,Dublin,Ireland,2024-08-15,Organic Search
+419,Jack,Thomas,Bangalore,India,2025-10-28,Direct
+420,Grace,Taylor,Leeds,UK,2026-09-02,Paid Social
+421,Mason,Anderson,Leeds,UK,2024-10-11,Email
+422,Isabella,Thompson,Austin,USA,2023-06-29,Referral
+423,Emma,Thomas,Toronto,Canada,2026-02-09,Direct
+424,Zoe,Thompson,London,UK,2025-03-27,Organic Search
+425,Olivia,Johnson,Leeds,UK,2025-08-30,Email
+426,Noah,Reddy,New York,USA,2026-01-18,Email
+427,Max,Jones,Austin,USA,2026-05-06,Direct
+428,Ethan,Miller,London,UK,2026-07-21,Paid Social
+429,James,Brown,Austin,USA,2024-01-07,Direct
+430,Sara,Nair,Manchester,UK,2026-09-04,Organic Search
+431,Isabella,Reddy,Mumbai,India,2026-02-25,Email
+432,Daniel,Garcia,Pune,India,2023-03-12,Organic Search
+433,Omar,Thompson,Austin,USA,2026-03-30,Direct
+434,Noah,Martin,Chicago,USA,2025-12-05,Organic Search
+435,Mason,Nair,Sydney,Australia,2025-05-12,Email
+436,Arjun,Jackson,Manchester,UK,2023-01-29,Email
+437,Ruby,Thompson,Austin,USA,2023-11-15,Paid Social
+438,Sara,Perez,Manchester,UK,2023-06-19,Email
+439,Benjamin,Rao,Birmingham,UK,2026-07-07,Organic Search
+440,Olivia,Smith,Austin,USA,2023-09-07,Direct
+441,Ethan,Miller,Dublin,Ireland,2023-09-06,Organic Search
+442,Liam,Martinez,Toronto,Canada,2026-03-11,Organic Search
+443,James,Desai,London,UK,2025-01-19,Referral
+444,Lucas,Gupta,Sydney,Australia,2023-06-22,Organic Search
+445,Leo,Khan,Delhi,India,2025-08-01,Email
+446,Evelyn,Desai,London,UK,2023-03-07,Organic Search
+447,Olivia,Rao,Austin,USA,2026-06-20,Organic Search
+448,Daniel,Wilson,Toronto,Canada,2026-05-14,Organic Search
+449,Jack,White,London,UK,2024-10-09,Paid Social
+450,Ella,Gupta,Delhi,India,2025-08-20,Email
+451,Lucas,Reddy,Manchester,UK,2025-01-13,Direct
+452,Mia,Sharma,Sydney,Australia,2025-05-05,Paid Social
+453,Fatima,Martinez,Sydney,Australia,2026-03-06,Paid Social
+454,Michael,Johnson,Chicago,USA,2026-08-26,Email
+455,Ruby,Anderson,Dublin,Ireland,2026-05-25,Referral
+456,Olivia,Iyer,Birmingham,UK,2026-05-16,Referral
+457,Sam,Moore,Leeds,UK,2025-02-10,Paid Social
+458,Neha,White,Sydney,Australia,2024-04-24,Referral
+459,Abigail,Khan,London,UK,2024-10-20,Organic Search
+460,Omar,Garcia,Chicago,USA,2023-03-28,Organic Search
+461,Lucas,Reddy,Dublin,Ireland,2026-03-17,Organic Search
+462,Leo,Patel,Sydney,Australia,2025-10-20,Paid Social
+463,Ethan,Perez,New York,USA,2025-09-19,Referral
+464,Amelia,Reddy,Sydney,Australia,2024-04-24,Organic Search
+465,Noah,Patel,Pune,India,2025-08-10,Email
+466,Evelyn,Thompson,Sydney,Australia,2023-01-20,Referral
+467,Yusuf,Perez,Manchester,UK,2026-01-03,Referral
+468,Ava,Davis,Pune,India,2026-04-02,Paid Social
+469,Evelyn,Rao,Dublin,Ireland,2025-12-04,Paid Social
+470,Grace,Thompson,Leeds,UK,2024-01-23,Organic Search
+471,Ethan,Garcia,Sydney,Australia,2024-08-16,Paid Social
+472,Ella,Taylor,Pune,India,2025-11-25,Direct
+473,Alexander,Johnson,Delhi,India,2025-02-05,Direct
+474,Karan,Sharma,Delhi,India,2023-06-17,Organic Search
+475,Ruby,Smith,Bangalore,India,2024-07-28,Paid Social
+476,Liam,Brown,London,UK,2024-02-24,Direct
+477,Ella,Martin,Chicago,USA,2026-03-07,Organic Search
+478,Michael,Moore,Manchester,UK,2025-07-04,Referral
+479,Ruby,Jones,Mumbai,India,2023-03-19,Paid Social
+480,James,Thomas,Manchester,UK,2023-02-26,Organic Search
+481,Leo,Taylor,Dublin,Ireland,2025-07-27,Paid Social
+482,Ava,Chowdhury,Chicago,USA,2026-08-03,Paid Social
+483,Mason,Khan,Manchester,UK,2024-06-10,Organic Search
+484,Harper,Sharma,Manchester,UK,2025-11-03,Paid Social
+485,Fatima,Chowdhury,Birmingham,UK,2025-01-29,Direct
+486,Harper,Garcia,London,UK,2024-06-08,Direct
+487,Noah,Rao,New York,USA,2023-02-26,Referral
+488,Noah,Martinez,Sydney,Australia,2025-11-17,Email
+489,Chloe,Johnson,Manchester,UK,2023-10-24,Organic Search
+490,Olivia,Miller,Austin,USA,2024-09-03,Email
+491,Fatima,Nair,Austin,USA,2023-08-04,Paid Social
+492,Karan,Martinez,Pune,India,2023-09-12,Paid Social
+493,Neha,Garcia,Delhi,India,2024-05-03,Referral
+494,Olivia,Jackson,Toronto,Canada,2024-02-04,Referral
+495,Mia,Desai,Dublin,Ireland,2024-03-27,Organic Search
+496,Max,Chowdhury,Bangalore,India,2023-10-14,Referral
+497,Sophia,Desai,Pune,India,2023-02-14,Email
+498,Fatima,Anderson,Bangalore,India,2024-04-23,Paid Social
+499,Karan,Jones,Bangalore,India,2024-03-29,Referral
+500,James,Khan,Delhi,India,2026-02-07,Direct
+501,Fatima,Chowdhury,Birmingham,UK,2024-06-29,Paid Social
+502,Alexander,Jones,London,UK,2024-07-09,Email
+503,Abigail,Anderson,Sydney,Australia,2023-12-10,Organic Search
+504,Sophia,Anderson,Delhi,India,2025-09-15,Organic Search
+505,Grace,Johnson,Austin,USA,2024-03-08,Email
+506,Abigail,Brown,Mumbai,India,2024-02-17,Direct
+507,Omar,Martinez,Leeds,UK,2024-05-02,Organic Search
+508,Abigail,Moore,Birmingham,UK,2023-04-28,Referral
+509,Abigail,Jones,Austin,USA,2023-02-02,Paid Social
+510,Grace,Anderson,New York,USA,2023-10-15,Paid Social
+511,Henry,Wilson,Birmingham,UK,2025-01-07,Paid Social
+512,Sara,Miller,Mumbai,India,2026-03-16,Organic Search
+513,James,Lee,Sydney,Australia,2024-04-16,Email
+514,Amelia,White,Manchester,UK,2023-06-29,Direct
+515,Jack,Nair,Mumbai,India,2023-12-26,Organic Search
+516,Max,Patel,Toronto,Canada,2026-07-11,Referral
+517,Sam,Wilson,Leeds,UK,2023-01-21,Organic Search
+518,Henry,Moore,Dublin,Ireland,2023-04-24,Paid Social
+519,Ananya,Anderson,Mumbai,India,2026-08-02,Direct
+520,Jack,Williams,London,UK,2025-04-18,Direct
+521,Chloe,Jones,Dublin,Ireland,2024-06-29,Organic Search
+522,Ella,Iyer,Bangalore,India,2023-03-17,Organic Search
+523,Karan,Thompson,Chicago,USA,2023-01-10,Paid Social
+524,Fatima,Lee,Manchester,UK,2023-09-05,Paid Social
+525,Alexander,Iyer,Dublin,Ireland,2024-10-19,Referral
+526,Neha,Thompson,Sydney,Australia,2023-05-06,Organic Search
+527,Sophia,Gupta,Delhi,India,2025-07-03,Paid Social
+528,Henry,Reddy,New York,USA,2023-10-03,Organic Search
+529,Ethan,Davis,Chicago,USA,2024-01-09,Organic Search
+530,Daniel,Martinez,New York,USA,2023-03-03,Organic Search
+531,Amelia,Martinez,London,UK,2026-05-12,Email
+532,Yusuf,Lee,Leeds,UK,2025-06-28,Organic Search
+533,Sophia,Khan,Birmingham,UK,2023-04-03,Organic Search
+534,Yusuf,Martin,Chicago,USA,2025-10-22,Referral
+535,Mason,Brown,Manchester,UK,2025-04-10,Direct
+536,Zoe,Thompson,Leeds,UK,2024-04-09,Organic Search
+537,Ella,Jackson,Toronto,Canada,2025-03-23,Organic Search
+538,Liam,Sharma,Pune,India,2025-05-11,Email
+539,Ruby,Lee,London,UK,2025-03-21,Direct
+540,Noah,Nair,Bangalore,India,2024-11-24,Paid Social
+541,Rahul,Khan,Pune,India,2026-03-01,Referral
+542,Priya,Iyer,Pune,India,2026-02-23,Organic Search
+543,Henry,Jones,Austin,USA,2024-12-24,Organic Search
+544,Omar,Patel,Austin,USA,2023-01-24,Paid Social
+545,Henry,Garcia,Manchester,UK,2024-10-26,Paid Social
+546,Grace,Patel,London,UK,2024-04-06,Organic Search
+547,Arjun,Nair,Delhi,India,2026-07-20,Organic Search
+548,Emma,Johnson,Dublin,Ireland,2026-08-06,Email
+549,Max,Martinez,Austin,USA,2026-01-15,Referral
+550,Emma,White,Manchester,UK,2024-05-28,Organic Search
+551,Olivia,Moore,Leeds,UK,2023-03-22,Organic Search
+552,Daniel,Taylor,Austin,USA,2023-12-08,Organic Search
+553,Ruby,Desai,New York,USA,2024-07-03,Organic Search
+554,Sam,Perez,Birmingham,UK,2025-06-20,Organic Search
+555,Isabella,Rao,Mumbai,India,2025-04-12,Email
+556,Michael,Davis,Toronto,Canada,2023-06-29,Referral
+557,Abigail,Iyer,Delhi,India,2026-06-03,Email
+558,Harper,Sharma,Pune,India,2024-02-17,Email
+559,Karan,Jackson,New York,USA,2024-09-13,Email
+560,Chloe,Iyer,Mumbai,India,2023-03-05,Organic Search
+561,Harper,Miller,New York,USA,2026-01-23,Paid Social
+562,Sam,Thomas,London,UK,2024-12-23,Organic Search
+563,Alexander,Anderson,New York,USA,2024-10-28,Paid Social
+564,Abigail,Rao,Leeds,UK,2024-08-28,Organic Search
+565,Liam,Garcia,New York,USA,2023-05-17,Email
+566,Ananya,Jackson,Austin,USA,2023-05-08,Paid Social
+567,Fatima,Taylor,Toronto,Canada,2023-08-12,Paid Social
+568,Lucas,Moore,Bangalore,India,2024-12-22,Organic Search
+569,Amelia,White,Chicago,USA,2024-07-20,Referral
+570,Henry,Brown,Toronto,Canada,2025-08-31,Organic Search
+571,Isabella,Moore,Dublin,Ireland,2023-07-31,Organic Search
+572,Leo,Thompson,Manchester,UK,2025-10-16,Paid Social
+573,Ella,Jones,Pune,India,2024-07-26,Direct
+574,Ruby,Brown,Pune,India,2025-07-15,Email
+575,Abigail,Gupta,Bangalore,India,2024-08-22,Paid Social
+576,Henry,Perez,Chicago,USA,2025-02-26,Email
+577,Olivia,Reddy,Toronto,Canada,2025-10-20,Paid Social
+578,Daniel,Garcia,New York,USA,2024-09-14,Referral
+579,Omar,Thompson,Pune,India,2026-04-06,Organic Search
+580,Rahul,Anderson,Dublin,Ireland,2026-05-30,Referral
+581,Priya,Miller,Pune,India,2023-01-22,Organic Search
+582,Evelyn,Thompson,Delhi,India,2024-09-06,Direct
+583,Daniel,Perez,Chicago,USA,2025-06-14,Paid Social
+584,Henry,Gupta,Austin,USA,2025-05-30,Paid Social
+585,Ananya,Johnson,Chicago,USA,2024-12-20,Paid Social
+586,Olivia,Patel,Manchester,UK,2025-12-11,Organic Search
+587,Sara,Taylor,New York,USA,2025-04-01,Email
+588,Ella,Jones,Leeds,UK,2025-05-12,Paid Social
+589,Fatima,Nair,Chicago,USA,2026-04-18,Paid Social
+590,Henry,Gupta,Dublin,Ireland,2023-07-08,Organic Search
+591,Priya,Taylor,Manchester,UK,2024-09-28,Paid Social
+592,Mason,Sharma,Mumbai,India,2024-12-04,Referral
+593,Grace,Rao,Pune,India,2026-07-16,Organic Search
+594,Abigail,Iyer,New York,USA,2024-03-01,Paid Social
+595,Amelia,Moore,Birmingham,UK,2023-05-04,Email
+596,Ruby,Brown,Bangalore,India,2026-03-13,Direct
+597,Emma,Khan,Pune,India,2023-01-22,Referral
+598,Daniel,Khan,Toronto,Canada,2026-02-06,Organic Search
+599,Daniel,Thomas,Dublin,Ireland,2023-07-21,Email
+600,Liam,Miller,Birmingham,UK,2025-10-16,Referral

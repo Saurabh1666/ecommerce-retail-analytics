@@ -1,0 +1,52 @@
+product_id,product_name,category_id,unit_price,unit_cost
+1,Wireless Earbuds,1,171.69,70.21
+2,Bluetooth Speaker,1,217.84,107.99
+3,4K Monitor,1,35.27,21.53
+4,USB-C Hub,1,116.82,74.2
+5,Smart Watch,1,129.98,64.62
+6,Laptop Stand,1,12.44,8.34
+7,Mechanical Keyboard,1,226.69,114.0
+8,Webcam HD,1,112.63,58.76
+9,Non-stick Pan Set,2,211.54,97.03
+10,Electric Kettle,2,175.36,83.72
+11,Air Fryer,2,36.33,21.55
+12,Cutlery Set,2,52.8,36.68
+13,Ceramic Mug Set,2,187.93,77.3
+14,Blender,2,168.21,113.99
+15,Storage Jars,2,58.1,27.04
+16,Dish Rack,2,12.06,7.25
+17,Running Shorts,3,117.09,50.54
+18,Yoga Mat,3,14.73,10.05
+19,Resistance Bands,3,54.03,32.4
+20,Gym Duffel Bag,3,49.1,23.33
+21,Compression Leggings,3,35.13,24.96
+22,Water Bottle,3,203.8,104.7
+23,Foam Roller,3,90.41,53.11
+24,Training Gloves,3,275.55,106.99
+25,Data Analysis Handbook,4,28.26,12.77
+26,Historical Fiction Novel,4,173.63,82.61
+27,Cookbook: World Cuisine,4,98.71,52.55
+28,Personal Finance Guide,4,123.93,86.85
+29,Sci-Fi Anthology,4,157.78,104.84
+30,Business Strategy Book,4,45.52,24.54
+31,Facial Cleanser,5,14.46,5.88
+32,Vitamin C Serum,5,92.77,50.54
+33,Sunscreen SPF50,5,106.46,43.53
+34,Hair Dryer,5,95.18,43.63
+35,Lip Balm Set,5,220.3,115.54
+36,Shampoo & Conditioner Kit,5,227.09,109.99
+37,Building Blocks Set,6,97.14,49.55
+38,Puzzle 1000pc,6,85.79,44.62
+39,Remote Control Car,6,53.07,37.1
+40,Plush Toy Bear,6,164.89,97.56
+41,Board Game Classic,6,32.6,19.93
+42,Running Shoes,7,158.66,67.66
+43,Canvas Sneakers,7,134.92,68.82
+44,Leather Loafers,7,162.78,96.42
+45,Hiking Boots,7,78.52,47.31
+46,Sandals,7,111.19,51.59
+47,Notebook Pack,8,126.11,71.79
+48,Ergonomic Mouse,8,98.28,59.73
+49,Desk Organizer,8,229.24,103.71
+50,Sticky Notes Set,8,294.4,113.34
+51,Printer Paper Ream,8,141.8,73.53
